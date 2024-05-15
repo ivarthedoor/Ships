@@ -1,0 +1,8 @@
+Gra w Statki
+---Założenia---
+-2 plansze 10x10 1-10/a-j (Razem 100 pól)
+-randomowo losowane pozycje statków (30 pól ze 100) - gracz oraz komputer wybierają swoje pola ze statkami
+-losowanie zaczynającego rozgrywkę
+-gracz lub koputer typuje pole, które ma być "zaatakowane"
+    -zaatakowane pole zostaje "zniszczone", jeżeli był na nim statek atakujący dostaje 1pkt
+-wygrywa strona, która jako pierwsza zdobędzie 30pkt
